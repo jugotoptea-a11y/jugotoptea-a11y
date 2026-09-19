@@ -31,8 +31,6 @@ Soy un apasionado de la tecnología y el desarrollo de software.
 
 ### 📊 Estadísticas de GitHub
 <!-- Estas tarjetas se actualizarán solas leyendo los datos de tu cuenta -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jugotoptea-a11y&layout=compact)
-<br>
 <a href="https://komarev.com/ghpvc/?username=jugotoptea-a11y&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=jugotoptea-a11y&style=for-the-badge">
 </a>
